@@ -1,0 +1,63 @@
+.dataTables_wrapper .dataTables_info {
+    clear:none;
+    float: left;
+    padding-top: 0.755em;
+}
+
+div.dataTables_length {
+    float: left;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+div.dataTables_paginate {
+    float: right;
+}
+
+table.dataTable>thead .sorting:before, table.dataTable>thead .sorting_asc:before, table.dataTable>thead .sorting_desc:before, table.dataTable>thead .sorting_asc_disabled:before, table.dataTable>thead .sorting_desc_disabled:before {
+    content: none;
+}
+
+table.dataTable>thead .sorting:after, table.dataTable>thead .sorting_asc:after, table.dataTable>thead .sorting_desc:after, table.dataTable>thead .sorting_asc_disabled:after, table.dataTable>thead .sorting_desc_disabled:after {
+    content: none;
+}
+
+.dataTables_wrapper .dataTables_length select {
+
+    padding: 0 20px 0 8px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0;
+    margin-left: -1px;
+}
+
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+    box-shadow: 0px 0px 6px #c6ac64;
+}
+
+.card.card-secondary {
+    box-shadow: 0px 0px 3px #ffffff, 0px 0px 9px #000000;
+}
+
+footer.main-footer {
+    box-shadow: 0px 0px 2px #000000;
+}
+.p3_text{
+    font-size: 11px;
+}
+
+input.select_entry {
+    margin-left: 30%;
+}
+
+.main-content {
+    min-height: 700px;
+}
+
+.db_icon:before {
+    font-size: 0.8em;
+}
+
+
+
