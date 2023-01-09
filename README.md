@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#" target="_blank">Promom</a></h1>
+<h1 align="center"><a href="#" target="_blank">My project</a></h1>
 
 please check backup dir for sql and sample .env
 
